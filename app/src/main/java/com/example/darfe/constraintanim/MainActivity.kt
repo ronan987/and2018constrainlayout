@@ -1,10 +1,11 @@
-package com.example.darfe.constraintanim
+package com.example.ronald.constrain
 
 import android.databinding.DataBindingUtil
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.constraint.ConstraintSet
 import android.support.transition.TransitionManager
+import com.example.darfe.constraintanim.R
 import com.example.darfe.constraintanim.databinding.ActivityMainExpandedBinding
 import com.example.darfe.constraintanim.models.Movie
 import kotlinx.android.synthetic.main.activity_main_expanded.*
